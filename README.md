@@ -22,7 +22,6 @@
 
 ### 🌟 **Projects**  
 - 🔗 **[Portfolio Website](#)**: Showcasing my journey, skills, and projects.  
-- 🌤️ **[Weather App](#)**: A responsive application built with **React.js**, featuring real-time weather updates via the OpenWeather API.  
 - 🎥 **[Movie Website](#)**: A dynamic and visually appealing movie database using **HTML, CSS, and JavaScript**.  
 
 ---
