@@ -1,49 +1,28 @@
-# 👋 Hi there, I'm **Sandun Dissanayake**  
+<h1 align="center">Hi 👋, I'm Sandun Dissanayake</h1>
+<h3 align="center">A passionate frontend developer and Web Designer from Sri Lanka</h3>
 
-🌟 **Front-end Developer | BSc Computing Student**  
-🚀 Passionate about creating dynamic and user-friendly web applications.  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandundissanayake&label=Profile%20views&color=0e75b6&style=flat" alt="sandundissanayake" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandundissanayake" alt="sandundissanayake" /></a> </p>
 
-## 📖 **About Me**  
-- 🎓 Currently pursuing my **BSc in Computing** at the **National Institute of Business Management**.  
-- 🌱 Always learning and experimenting with the latest web development tools and technologies.  
-- 💡 Combining creativity and logic to deliver **responsive** and **engaging user experiences**.  
+- 🌱 I’m currently learning **National Institute Of Business Management**
 
----
+- 💬 Ask me about **Web Design | Frontend Development**
 
-## 💻 **What I Do**  
-### 🚀 **Tech Stack**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+- 📫 How to reach me **sandundissanayaka05@gmail.com**
 
-### 🌟 **Projects**  
-- 🔗 **[Portfolio Website](#)**: Showcasing my journey, skills, and projects.  
-- 🎥 **[Movie Website](#)**: A dynamic and visually appealing movie database using **HTML, CSS, and JavaScript**.  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sandun dissanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandun dissanayake" height="30" width="40" /></a>
+<a href="https://fb.com/sandun dissanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandun dissanayake" height="30" width="40" /></a>
+<a href="https://instagram.com/sadu xx 01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadu xx 01" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-## 🎯 **What I'm Learning**  
-- 🎨 Advanced animation techniques with **Framer Motion**.  
-- 📡 Enhancing API integration skills for **data-driven applications**.  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandundissanayake&show_icons=true&locale=en&layout=compact" alt="sandundissanayake" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandundissanayake&show_icons=true&locale=en" alt="sandundissanayake" /></p>
 
-## 🤝 **Let's Collaborate!**  
-- 🌐 I’d love to work on **front-end projects**, **portfolios**, and **web design** for creatives.  
-
----
-
-## 📬 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandun-dissanayake)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SandunDissanayake)  
-
----
-
-## 🌟 **Fun Fact**  
-💡 I enjoy simplifying complex problems and making them visually appealing!  
-
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandundissanayake&" alt="sandundissanayake" /></p>
